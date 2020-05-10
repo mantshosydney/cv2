@@ -118,22 +118,3 @@ p{
   width:40%;
   margin: 40px auto;
 }
-
-.btn {
-   -webkit-border-radius: 8px;
-   -moz-border-radius: 8px;
-   border-radius: 8px;
-   height: 14px;
-   line-height: 14px;
-   color: #FFFFFF;
-   font-family: 'Montserrat', sans-serif;
-   width: 185px;
-   font-size: 20px;
-   font-weight: 900;
-   padding: 12px;
-   background-color: #66BFBF;
-   text-decoration: none;
-   display: inline-block;
-   cursor: pointer;
-   text-align: center;
-}
