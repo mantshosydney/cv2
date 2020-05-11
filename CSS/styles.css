@@ -50,13 +50,13 @@ background-color: #66BFBF;
 }
 .bottom-cloud{
   position: absolute;
-  left:22em;
-  top:22em;
+  left:20%;
+  top:14%;
 }
 .top-cloud{
   position: absolute;
-  right:22em;
-  top:3em;
+  right:20%;
+  top:5%;
 }
 
 .skill-row{
