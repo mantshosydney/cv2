@@ -46,17 +46,17 @@ background-color: white;
 }
 .bottom-container{
 background-color: #66BFBF;
-padding: 20px 0 20px 0;
+
 }
 .bottom-cloud{
   position: absolute;
-  left:350px;
-  top:350px;
+  left:22rem;
+  top:22rem;
 }
 .top-cloud{
   position: absolute;
-  right:350px;
-  top:50px;
+  right:22rem;
+  top:3rem;
 }
 
 .skill-row{
